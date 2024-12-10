@@ -34,3 +34,6 @@ This project is designed to scrape past box scores from the Basketball Reference
 2. Open and run all cells in 'parse_data.pynb' to clean and parse the box scores and prepare a DataFrame for machine learning
 3. The first 2 files will take very long to run, so the file 'nba_games.csv' is included for quick access to predictions
 4. Open and run all cells in 'predict.ipynb' to apply machine learning to 'nba_games.csv' and make predictions
+
+## Note
+'parse_data.pynb' and 'nba_games.csv' may be too large to view in Github and you might have to download these files to view them
